@@ -1,43 +1,66 @@
 <h1 align="center">Hi 👋, I'm Muneswara Reddy Bhogala</h1>
-<h3 align="center">A passionate Java developer/ SQL Developer from India</h3>
+<h3 align="center">Aspiring Software Tester | Java & Selenium Automation Enthusias</h3>
 
-- 🌱 I’m currently learning **React Js**
+---
 
-- 👨‍💻 All of my projects are available at repositories....
+🎓 **Computer Science Graduate**  
+💻 Passionate about Manual testing and automation using **Java** and **Selenium**   
+📬 Reach me at: **muneswarreddybhogala@gmail.com**
 
-- 💬 Ask me about ** Languages: Java, J2EE, SQL - Frontend technologies: HTML, CSS, JavaScript, ReactJS - Backend technologies: JDBC, Hibernate, Spring Boot - Testing: Manual & Automation, Selenium with Java, SDLC, STLC**
+---
 
-- 📫 How to reach me **bhogalamuneswarreddy@gmail.com**
+## 🧠 Skills & Technologies
 
-- 📄 Know about my experiences visit my Linked in Profile...
+- **Programming Languages:** Java (JSE, J2EE), SQL  
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Databases:** SQL, MySQL  
+- **Testing Tools:** Selenium WebDriver, Manual Testing  
+- **Concepts:** SDLC, STLC, Bug Life Cycle, Test Case Writing & Execution  
+- **Testing Types:** Unit, Integration, System, Regression, UAT  
+- **Version Control:** Git, GitHub  
 
-- ⚡ **I think I am funny 😄**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhogalamuneswarareddy/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+## 📁 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+### 🔹 Automated Web Testing using Selenium
+- Technologies: Java, Selenium WebDriver
+- Learnings include:
+  - Locators & Selectors (ID, Name, XPath, CSS)
+  - Handling Alerts, Popups, IFrames, Checkboxes
+  - Dropdowns, Tables, Date Pickers
+  - Mouse Actions (hover, drag & drop, double click)
+  - Taking Screenshots
+  - Writing reusable WebDriver methods
+  - Organizing and writing test cases
+
+---
+
+## 💼 Internships
+
+**Kodnest** – Software Testing Intern  
+📅 *Dec 2024 – March 2024*  
+- Gained hands-on experience in manual and automation testing  
+- Practiced writing test cases and executing them using Selenium with Java
+
+---
+
+## 🎓 Education
+
+- **B.Tech in Computer Science**, Vaagdevi Institute of Technology and Science (2020–2024)  
+  CGPA: 8.1/10  
+- **Intermediate (MPC)**, Vivekananda Junior College (2018–2020) – 91.7%  
+- **SSC**, P.R. Govt High School (2017–2018) – 87.4%
+
+---
+
+## 🌐 Connect with Me
+
+<a href="https://www.linkedin.com/in/muneswar-reddy-bhogala/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+---
+
+⭐ *Thank you for visiting my profile! I'm always open to learning and collaboration.*
+
